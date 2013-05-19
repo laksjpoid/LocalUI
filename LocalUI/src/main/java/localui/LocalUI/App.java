@@ -16,7 +16,7 @@ public class App
     public static void main( String[] args )
     {
         Display display = new Display();
-        Shell shell = new Shell(display);
+        Shell shell = new Shell(display, SWT.RESIZE);
         shell.setText("Hello World");
         shell.setBounds(100,100,200,50);
         shell.setLayout(new FillLayout());

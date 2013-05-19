@@ -1,0 +1,13 @@
+package localui.elements;
+
+public enum BackgroundPosition {
+	TOPLEFT,
+	TOPCENTER,
+	TOPRIGHT,
+	CENTERLEFT,
+	CENTERCENTER,
+	CENTERRIGHT,
+	BOTTOMLEFT,
+	BOTTOMCENTER,
+	BOTTOMRIGHT
+}
