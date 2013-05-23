@@ -27,7 +27,6 @@ public class BoxModel {
 	private Color borderRightColor;
 	private Color borderBottomColor;
 	private Color borderLeftColor;
-	
 
 	public int getMarginTop() {
 		return marginTop;
